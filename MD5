@@ -1,0 +1,15 @@
+2601344ad1fa0a0a8b6b0b4d94bb6d1e *DESCRIPTION
+d41d8cd98f00b204e9800998ecf8427e *NAMESPACE
+edb398b08ab5502c84591bff22dfb380 *data/He1grid.rda
+e47768863c8aa964533b355bc54a31d4 *data/He3grid.rda
+0df251686abce0784a42604e3d62fbe0 *data/ML150grid.rda
+3832754eb846addf3b93c49920996765 *data/ML162grid.rda
+7bfb2bfe4dfdde7e17a4f88302685a54 *data/ML186grid.rda
+30b8a37e674a176c3e1087e1a1d52482 *data/ML198grid.rda
+5e2bbc971fdb682832a0d0464d0283dd *data/datalist
+b5d26ee8ec45d2278204a2587767a85e *man/He1grid.Rd
+a630f1538d5f288ca9a4c0314076386e *man/He3grid.Rd
+b3230e96d8eed1207b25d77d59ef2366 *man/ML150grid.Rd
+cec33b5d2d8949bcb911a886ee00892e *man/ML162grid.Rd
+757f61ab4f2cae82fec392854f7c5523 *man/ML186grid.Rd
+f51fdee6cd2920154dd84abb25755147 *man/ML198grid.Rd
